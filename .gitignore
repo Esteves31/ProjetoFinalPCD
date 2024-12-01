@@ -1,0 +1,40 @@
+# Arquivos de build
+*.o
+*.a
+*.so
+*.out
+*.exe
+
+# Diretórios de build
+build/
+bin/
+obj/
+
+# Makefiles automáticos
+Makefile~
+Makefile.in
+Makefile.dep
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.swp
+*.bak
+*.d
+
+# Arquivos gerados por depuradores
+*.dSYM/
+*.core
+*.stackdump
+
+# Arquivos gerados por IDEs
+.vscode/
+.idea/
+*.pro.user
+*.pro.user.*
+*.cproject
+*.project
+
+# Arquivos específicos de sistemas operacionais
+.DS_Store       # macOS
+Thumbs.db       # Windows
