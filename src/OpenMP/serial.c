@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-# include <omp.h>
+#include <omp.h>
 
 #define N 2000    // Tamanho da grade
 #define T 500     // Número de iterações no tempo
